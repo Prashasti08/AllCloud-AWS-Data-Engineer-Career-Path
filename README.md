@@ -1,41 +1,39 @@
-# AllCloud-AWS-Data-Engineer-Career-Path
-# ☁️ **AllCloud: AWS Data Engineer Career Path Framework** ☁️
+# AllCloud: AWS Data Engineer Career Path Framework
 
-## **🎯 Project Summary & My Role**
+## Project Summary
 
-This project involved designing a comprehensive **5+ year career path framework** for **AWS Data Engineers** at AllCloud, created as part of a job application screening activity. My role was to develop a clear, actionable roadmap for employee professional development, integrating technical, interpersonal, and intrapersonal skills with measurable success metrics.
+Designed a **5+ year career path for AWS Data Engineers** at AllCloud. Developed an actionable roadmap integrating essential skills and measurable success metrics.
 
-## **📈 Objective**
+## Objective
 
-To provide AllCloud employees (especially those new to career pathing) with a transparent understanding of growth opportunities, fostering their professional development and aligning individual growth with organizational success.
+Guide AllCloud employees in professional development. Ensure clear growth opportunities, aligning individual progression with company success.
 
-## **💡 Key Deliverables & Approach**
+## Key Insights & Recommendations
 
-I developed a multi-stage career progression model, detailing:
+*(Framework based on prompt)*
 
-* **Progression Stages:** Junior, Mid-Level, Senior, and Beyond Senior (Principal/Architect/Management).
-* **Required Skills:** Specific AWS technologies (S3, Glue, Redshift), technical knowledge, intrapersonal skills (e.g., Time Management, Problem-Solving), and interpersonal skills (e.g., Customer Communication, Presenting).
-* **Certifications:** Relevant AWS certifications (e.g., Cloud Practitioner, Data Analytics - Specialty).
-* **Success Metrics:** Defined measurable indicators for each skill and stage (e.g., manager feedback, code review, certification completion, stakeholder feedback).
+1.  **Structured Progression:** Defined stages (Junior to Principal/Management).
+2.  **Holistic Skill Development:** Covered AWS tech, technical, intrapersonal, and interpersonal skills.
+3.  **Measurable Success:** Established metrics (self-ratings, manager feedback, certifications).
+4.  **Proactive Guidance:** Addressed anticipated employee questions.
 
-The framework was designed for clarity and ease of understanding for a non-technical employee audience.
+## Impact
 
-## **🌟 Impact**
-
-This project demonstrates my ability to:
-
-* **Design & Structure HR/Talent Programs:** Create clear, measurable frameworks for employee development.
-* **Bridge Technical & People Domains:** Translate complex technical roles into understandable career progression.
-* **Communicate Strategically:** Present complex information effectively to diverse audiences (as required for the employee audience).
-* **Utilize People Analytics Principles:** Integrate skill assessment and success measurement into talent development.
+Demonstrated ability to **design strategic HR/Talent programs** and **bridge technical/people domains**. Effectively communicated complex development roadmaps, creating tangible tools for employee growth and organizational alignment.
 
 ---
 
-## **📂 Project Deliverables**
+## Project Prompt
 
-* **[AWS Data Engineer Career Path Presentation (PDF)](Prashasti%20Tripathi_AllCloud%20Intern_Screening%20Activity%20(1).pdf)**
-* **[Original Screening Activity Prompt (PDF)](AllCloud_Screening_Activity_Prompt.pdf)**
+"We are developing career paths for employees in technical roles. Use an AWS Data Engineer role as an example and create a suggested career path for employees in this role. The career path should show progression over 5+ years and include relevant AWS and related technologies certifications, required technical knowledge and skills, intrapersonal skills such as time management and accountability, and interpersonal skills such as customer communication and presenting/public speaking. Include as many components as you like in the suggested career path, and identify how you will measure success of each one (self-ratings, manager feedback, course completions, etc.). Create a brief mock PPT/Google Slides/any presentation software slide deck and feel free to make use of generative AI tools for content and design. Assume that your audience is employees who will likely be encountering a career path for the first time and want to understand how it will aid their professional development at AllCloud - what questions might they have that we should answer proactively? Make as many assumptions and take as much creative liberty as you like!"
 
 ---
 
-**🛠️ Skills:** Talent Management, Career Development, Learning & Development, Organizational Design, HR Strategy, People Analytics, Program Design, Technical Communication, Presentation Skills, AWS Concepts (conceptual), Skill Assessment, Performance Measurement.
+## Project Deliverables
+
+* [AWS Data Engineer Career Path Presentation (PDF)](AllCloud%20AWS%20Data%20Enginner%20Career%20Path_Prashasti%20Tripathi.pdf)
+
+---
+
+## Skills
+Talent Management, Career Development, Learning & Development, Organizational Design, HR Strategy, People Analytics, Program Design, Technical Communication,  AWS Concepts, Competency Mapping
