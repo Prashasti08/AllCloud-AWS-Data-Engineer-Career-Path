@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Designed a **5+ year career path for AWS Data Engineers** at AllCloud. Developed an actionable roadmap for employee development integrating essential skills and measurable success metrics
+Designed a 5+ year career path for AWS Data Engineers** at AllCloud. Developed an actionable roadmap for employee development integrating essential skills and measurable success metrics
 
 ## Skills
 Competency Mapping, Job Analysis, Talent Development and Management, Canva, AI tools
