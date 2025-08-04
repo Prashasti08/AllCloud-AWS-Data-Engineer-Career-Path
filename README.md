@@ -1,5 +1,7 @@
-# AllCloud: AWS Data Engineer Career Path Framework
+# Skill-Based Career Path for AWS Data Engineers
 
+
+• 
 ## Project Summary
 
 Designed a **5+ year career path for AWS Data Engineers** at AllCloud. Developed an actionable roadmap integrating essential skills and measurable success metrics.
